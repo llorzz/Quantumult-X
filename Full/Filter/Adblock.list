@@ -292,8 +292,3 @@ DOMAIN-SUFFIX, purpleads.io, reject
 #### m.yhpdm.com
 DOMAIN-SUFFIX, fg.knlk2md.cn, reject
 DOMAIN-SUFFIX, tg.gtlpaj.com, reject
-
-#### xchina.co
-DOMAIN-SUFFIX, kp3554.live, reject
-DOMAIN-SUFFIX, uhp840.com, reject
-DOMAIN-SUFFIX, 7u.mesft.com, reject
