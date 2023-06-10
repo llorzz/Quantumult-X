@@ -3642,7 +3642,6 @@ HOST-SUFFIX,zuoyebang.com,Direct
 HOST-SUFFIX,zybang.com,Direct
 HOST-SUFFIX,zyh365.com,Direct
 HOST-SUFFIX,zzdtec.com,Direct
-HOST-WILDCARD,windows-*.net,Direct
 HOST-KEYWORD,.tmall.com,Direct
 HOST-KEYWORD,alicdn,Direct
 HOST-KEYWORD,alipay,Direct
